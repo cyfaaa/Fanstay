@@ -1,6 +1,5 @@
 # Fanstay
 Mobile phone games by Unity
----
 ## Install
 Install .apk in /app
 ## Introduction
